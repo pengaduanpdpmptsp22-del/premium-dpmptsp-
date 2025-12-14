@@ -112,3 +112,9 @@
         "typescript": "^5"
     }
 }
+{
+  "overrides": {
+    "prismjs": "^1.30.0",
+    "refractor": "^4.8.1"
+  }
+}
